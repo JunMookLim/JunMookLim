@@ -21,6 +21,7 @@
 <br>
 *italic*
 <br>
+<br>
 ~~strikethrought~~
 
 * 1
